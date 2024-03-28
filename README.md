@@ -1,8 +1,9 @@
-# React + Vite
+# Task Manager App
+This project is a simple task manager application built with React. It allows users to add, edit, delete, and mark tasks as completed. Additionally, it provides a dark theme option for better user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
+Add Task: Users can add tasks with a title.
+Edit Task: Users can edit the title of existing tasks.
+Delete Task: Users can delete tasks.
+Mark as Completed: Users can mark tasks as completed or toggle them back to incomplete.
+Dark Theme: Users can switch between light and dark themes for better readability.
