@@ -1,4 +1,4 @@
-# Task Manager App
+# Todo List App
 This project is a simple task manager application built with React. It allows users to add, edit, delete, and mark tasks as completed. Additionally, it provides a dark theme option for better user experience.
 
 # Features
