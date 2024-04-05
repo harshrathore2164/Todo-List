@@ -9,7 +9,6 @@ This project is a todo list built with React and Tailwind. It allows users to ad
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Technologies Used
 
@@ -52,7 +51,7 @@ To run this project locally, follow these steps:
    ```
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 5. Open your browser and go to `http://localhost:3000` to view the app.
 
